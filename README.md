@@ -1,14 +1,14 @@
 # CCF 会议期刊推荐目录 2019
 
-由 [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/xspj/gyml/) 整理而成，包含了简称，全称，出版社，ULR 地址，等级（A，B，C），期刊/会议以及类别。类别取 0 ~ 10，其对应关系如下表:
+由 [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/) 整理而成，包含了简称，全称，出版社，ULR 地址，等级（A，B，C），期刊/会议以及类别。类别取 0 ~ 10，其对应关系如下表:
 
 | 类别编码 | 类别                   | 类别编码 | 类别         |
 |------|----------------------|------|------------|
-| 1    | [计算机体系结构/并行与分布计算/存储系统](https://www.ccf.org.cn/jsjtxjgbxyfbjsccxt/) | 6    | [计算机科学理论](https://www.ccf.org.cn/xspj/jsjkxll/)    |
-| 2    | [计算机网络](https://www.ccf.org.cn/xspj/jsjwl/)               | 7    | [计算机图形学与多媒体](https://www.ccf.org.cn/xspj/jsjtxxydmt/) |
-| 3    | [网络与信息安全](https://www.ccf.org.cn/xspj/wlyxxaq/)              | 8    | [人工智能](https://www.ccf.org.cn/xspj/rgzn/)       |
-| 4    | [软件工程/系统软件/程序设计语言](https://www.ccf.org.cn/xspj/rjgc/xtrj/cxsjyy/)     | 9    | [人机交互与普适计算](https://www.ccf.org.cn/xspj/rjjhypsjs/)  |
-| 5    | [数据库/数据挖掘/内容检索](https://www.ccf.org.cn/xspj/sjk/sjwj/nrjs/)        | 10   | [交叉/综合/新兴](https://www.ccf.org.cn/xspj/jc/zh/xx/)   |
+| 1    | [计算机体系结构/并行与分布计算/存储系统](https://www.ccf.org.cn/Academic_Evaluation/ARCH_DCP_SS/) | 6    | [计算机科学理论](https://www.ccf.org.cn/Academic_Evaluation/TCS/)    |
+| 2    | [计算机网络](https://www.ccf.org.cn/Academic_Evaluation/CN//)               | 7    | [计算机图形学与多媒体](https://www.ccf.org.cn/Academic_Evaluation/CGAndMT/) |
+| 3    | [网络与信息安全](https://www.ccf.org.cn/Academic_Evaluation/NIS/)              | 8    | [人工智能](https://www.ccf.org.cn/Academic_Evaluation/AI/)       |
+| 4    | [软件工程/系统软件/程序设计语言](https://www.ccf.org.cn/Academic_Evaluation/TCSE_SS_PDL/)     | 9    | [人机交互与普适计算](https://www.ccf.org.cn/Academic_Evaluation/HCIAndPC/)  |
+| 5    | [数据库/数据挖掘/内容检索](https://www.ccf.org.cn/Academic_Evaluation/DM_CS/)        | 10   | [交叉/综合/新兴](https://www.ccf.org.cn/Academic_Evaluation/Cross_Compre_Emerging/)   |
  
 另附下表的 Excel 格式。
 
